@@ -1,0 +1,12 @@
+body {
+    background-color: aquamarine; /*Светлый фон*/
+    font-family: Arial, Helvetica, sans-serif; /*Шрифт*/
+}
+h1 {
+    color: blue; /*Синий цвет текста для заголовка*/
+    text-align: center; /*Центрируем текст*/
+}
+p{ 
+    color: green; /*Зелёный цвет текста для абзаца*/
+    font-size: 20px; /*Размер шрифта*/
+}
