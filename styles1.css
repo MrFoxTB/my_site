@@ -1,0 +1,15 @@
+.box {
+    height: 100px;
+    width: 100px;
+    float: left;
+    text-align: center;
+    }
+#info1{
+    background-color: wheat (225, 255, 0);
+      }
+#info2{
+    background-color: aliceblue (128, 0, 111);
+      }
+#info3{
+    background-color: aqua (0, 2, 128);
+}
